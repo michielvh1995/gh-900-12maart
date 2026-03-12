@@ -46,5 +46,8 @@ In order to use this;
 5. Let's make a new mistake, push it to the remote and undo it using `git revert`
 
 
+## Known bugs:
+* Sometimes the Codespace fails to create with a 312 error
+
 
 
