@@ -1,5 +1,7 @@
 # Introduction to Git
 
+# Hello world!~
+
 ## This repository
 
 This repository is meant to be the git repo as used in a introductory training to git.
@@ -8,6 +10,7 @@ In order to use this;
 1. Fork it
 2. Allow people to clone _the fork_
 3. People can then work on the assignments
+
 
 
 
